@@ -14,3 +14,6 @@ bla la bla
 hdjgkdhgkdhgdkgh
 
 ## Come contribuire
+
+## Copyright
+Robba mia
