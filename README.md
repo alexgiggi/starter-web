@@ -14,6 +14,6 @@ bla la bla
 hdjgkdhgkdhgdkgh
 
 ## Come contribuire
-
+rivolgersi al BOSS prima di iniziare
 ## Copyright
 Robba mia
