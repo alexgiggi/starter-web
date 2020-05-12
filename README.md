@@ -16,4 +16,4 @@ hdjgkdhgkdhgdkgh
 ## Come contribuire
 rivolgersi al BOSS prima di iniziare
 ## Copyright
-Robba mia
+Robba mia, all rights reserved.
